@@ -1,8 +1,13 @@
 ---
-license: apache-2.0
-title: Search Engine
+title: XD Serach LLM Module
+emoji: 🌍
+colorFrom: blue
+colorTo: gray
 sdk: streamlit
-colorTo: green
-short_description: Search Engine With LLM
+sdk_version: 1.38.0
+app_file: app.py
+pinned: false
+license: apache-2.0
 ---
-Welcome to my serach engine
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
