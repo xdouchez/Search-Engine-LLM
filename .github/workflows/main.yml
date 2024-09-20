@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://xdouchez:$HF_TOKEN@huggingface.co/spaces/xdouchez/Search_LLM_Engine main
+        run: git push https://xdouchez:$HF_TOKEN@huggingface.co/spaces/xdouchez/XD_Serach_LLM_Module
